@@ -1,0 +1,11 @@
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\bin\Debug\TranMinhDuc_201210096.exe.config
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\bin\Debug\TranMinhDuc_201210096.exe
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\bin\Debug\TranMinhDuc_201210096.pdb
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.csproj.AssemblyReference.cache
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.csproj.SuggestedBindingRedirects.cache
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.Form1.resources
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.Properties.Resources.resources
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.csproj.GenerateResource.cache
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.csproj.CoreCompileInputs.cache
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.exe
+C:\Users\OSC\Desktop\TranMinhDuc_201210096\TranMinhDuc_201210096\TranMinhDuc_201210096\obj\Debug\TranMinhDuc_201210096.pdb
